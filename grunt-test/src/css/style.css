@@ -1,0 +1,52 @@
+body {
+  padding: 0; }
+
+h1 {
+  font-family: "Open Sans", sans-serif; }
+
+h2 {
+  font-family: "Open Sans", sans-serif; }
+
+h3 {
+  font-family: "Open Sans", sans-serif; }
+
+h4 {
+  font-family: "Open Sans", sans-serif; }
+
+h5 {
+  font-family: "Open Sans", sans-serif; }
+
+h1 {
+  color: #455A64; }
+
+p {
+  font-family: "Amiko", sans-serif; }
+
+form {
+  font-family: "Amiko", sans-serif; }
+
+input {
+  font-family: "Amiko", sans-serif; }
+
+button {
+  font-family: "Amiko", sans-serif; }
+
+span {
+  font-family: "Amiko", sans-serif; }
+
+ul {
+  font-family: "Amiko", sans-serif; }
+
+li {
+  font-family: "Amiko", sans-serif; }
+
+ol {
+  font-family: "Amiko", sans-serif; }
+
+header {
+  background: #CFD8DC;
+  padding: 15px 0px 15px 15px; }
+  header h1 {
+    color: #FFC107; }
+
+/*# sourceMappingURL=style.css.map */

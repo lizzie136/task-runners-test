@@ -1,0 +1,29 @@
+body{
+    padding:0;
+}
+
+@for $i from 1 through 5 {
+    h#{$i} {
+        font-family: $ff-heading;
+    }
+}
+h1{
+    color: $primary-color-dark;
+}
+
+@each $element in p, form, input, button, span, ul, li, ol {
+  #{$element} {
+    font-family: $ff-text;
+  }
+}
+
+header {
+    background: $primary-color-light;
+    padding: 15px 0px 15px 15px;
+    h1{
+        color:$accent-color;
+    }
+}
+
+
+
